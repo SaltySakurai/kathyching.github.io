@@ -31,18 +31,32 @@ nav a:hover {
 
 #home {
   color: white;
+  text-size: 25px;
   text-align: center;
-  padding: 50px;
+  padding: 100px;
 
 }
 #about {
   color: white;
-  text-align: center;
-  padding: 50px;
+  margin-right: 10px;
+  padding: 0px;
 }
 
 img {
-  height: 250px;
-  width: 250px;
-  padding: 10px;
+  float: left;
+  margin-right: 15px;
+  height: 200px;
+  width: 200px;
+  padding:5px;
+}
+
+#resume {
+  color: white;
+  padding-left: 0px;
+  padding-top: 75px;
+  left: 0;
+}
+
+ol li {
+  padding: 5px;
 }
