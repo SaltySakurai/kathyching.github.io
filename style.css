@@ -25,7 +25,7 @@ nav a {
 }
 
 nav a:hover {
-  background-color: lightsteelblue;
+  background-color: deepskyblue;
 
 }
 
@@ -59,4 +59,25 @@ img {
 
 ol li {
   padding: 5px;
+}
+
+#list {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: deepskyblue;
+}
+
+#subheader {
+  font-weight: bold;
+}
+
+#contact {
+  color: white;
+  padding-left: 0px;
+  padding-top: 20px;
+  left: 0;
+}
+
+a {
+  color: paleturquoise;
 }
